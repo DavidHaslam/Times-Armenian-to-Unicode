@@ -22,6 +22,10 @@ The mapping table conversion treats the RTF files as *plain text* input.
 
 i.e. The internal RTF codes are replaced by different RTF codes that correspond to those in the Unicode block for Armenian.
 
+The mapping table is a **tab delimited** text file with two columns.
+
+In the **find** column, the codes are *hexadecimal*. In the **replace** column, the codes are *decimal*.
+
 The conversion also requires the *specified* legacy font to be *replaced* by a Unicode font that supports Armenian.
 
 The **Sylfaen** font is a suitable candidate.
