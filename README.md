@@ -40,7 +40,7 @@ NB. Times Armenian does not have a character for the **Armenian Hyphen**. It had
 
 FIO. It used the **small tilde \x{02DC}** in its place in some separately generated PDF files.
 
-Both these pecularities may have been due to a quirk of how Quark XPress exports to RTF or prints to PDF.
+Both these pecularities may have been due to a quirk of how **Quark XPress**™ exports to RTF or prints to PDF.
 
 This exception is not currently included in my mapping table. It was rectified separately afterwards.
 
