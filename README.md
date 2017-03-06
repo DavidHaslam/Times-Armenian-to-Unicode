@@ -33,3 +33,16 @@ The **Sylfaen** font is a suitable candidate.
 The character mapping table can be called as as an external replace list in a bespoke **TextPipe** filter.
 
 My **TextPipe** filter also replaces the font specified in the RTF header lines.
+
+The mapping table was *reverse engineered* during April 2013. For traceability I have also uploaded my Excel workbook.
+
+NB. Times Armenian may or may not have a character for the **Armenian Hyphen**.
+
+It was simply absent in the RTF files for the project I was then working on.
+
+FIO. It used the **small tilde \x{02DC}** in its place in some separately exported PDF files.
+
+This exception is not included in my mapping table.
+
+Likewise, the table excludes the five Armenian ligatures and two other Armenian Unicode characters.
+
