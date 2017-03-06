@@ -38,6 +38,8 @@ My **TextPipe** filter also replaces the font specified in the RTF header lines.
 
 The mapping table was *reverse engineered* during April 2013. For traceability I have also uploaded my Excel workbook.
 
+**Acknowledgement**: The excellent Unicode text editor for Windows called [BabelPad](http://www.babelstone.co.uk/Software/BabelPad.html) was invaluable in preparing this file.
+
 The Excel worksheets are protected but without a password, merely to prevent inadvertent changes.
 
 NB. Times Armenian does not have a character for the **Armenian Hyphen**. It had the RTF code **\\--** in its place.
