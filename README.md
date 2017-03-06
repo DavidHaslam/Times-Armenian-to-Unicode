@@ -30,7 +30,7 @@ In the **find** column, the codes are *hexadecimal*. In the **replace** column, 
 
 The conversion also requires the *specified* legacy font to be *replaced* by a Unicode font that supports Armenian.
 
-The **Sylfaen** font is a suitable candidate.
+The **Sylfaen** font that's installed with Windows is a suitable candidate, except for one character (see below).
 
 The character mapping table can be called as as an external replace list in a bespoke **TextPipe** filter.
 
@@ -54,7 +54,7 @@ Likewise, the table excludes the five Armenian ligatures and two other Armenian 
 
 Even so, these are listed in my Excel worksheet for the sake of completeness.
 
-The Armenian script requires a suitable Unicode font. Sylfaen is suitable, albeit this is one that comes with Windows.
+The Armenian script requires a suitable Unicode font. 
 
 NB. The **Sylfaen** font displays the Armenian Hyphen as a space. The **DejaVu Sans** font is preferred on this score.
 
