@@ -36,6 +36,8 @@ My **TextPipe** filter also replaces the font specified in the RTF header lines.
 
 The mapping table was *reverse engineered* during April 2013. For traceability I have also uploaded my Excel workbook.
 
+The Excel worksheets are protected but without a password, merely to prevent inadvertent changes.
+
 NB. Times Armenian does not have a character for the **Armenian Hyphen**. It had the RTF code **\\--** in its place.
 
 FIO. It used the **small tilde \x{02DC}** in its place in some separately generated PDF files.
