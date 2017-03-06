@@ -58,5 +58,9 @@ The Armenian script requires a suitable Unicode font.
 
 NB. The **Sylfaen** font displays the Armenian Hyphen as a space. The **DejaVu Sans** font is preferred on this score.
 
+In modern Armenian orthography, the character **և** is no longer a typographical ligature, but a distinct letter with a place in the new alphabetic sequence, before "o".
+
+Aside: Misunderstandings may arise due to the fact the the **Unicode name** for the character **U+0587** is still ARMENIAN SMALL LIGATURE ECH YIWN. I guess this is historic, and unlikely to be changed in the near future.
+
 
 
