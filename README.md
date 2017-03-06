@@ -50,7 +50,7 @@ This exception is not currently included in my mapping table. It was rectified s
 
 Likewise, the table excludes the five Armenian ligatures and two other Armenian Unicode characters.
 
-Even, so, these are listed in my Excel worksheet for the sake of completeness.
+Even so, these are listed in my Excel worksheet for the sake of completeness.
 
 NB. The **Sylfaen** font displays the Armenian Hyphen as a space. The **Code2000** font might be preferred.
 
