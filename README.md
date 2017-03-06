@@ -2,7 +2,7 @@
 
 A mapping table to convert **RTF** files containing text in the font **Times Armenian** to proper Armenian **Unicode**.
 
-**Times Armenian** is a legacy font in which the Armenian characters are in the hexadecimal range **A3** to **FD**.
+**Times Armenian** is a legacy font in which the [Armenian characters](https://en.wikipedia.org/wiki/Armenian_alphabet) are in the hexadecimal range **A3** to **FD**.
 
 A special keyboard would normally have been used to type Armenian text with this font.
 
