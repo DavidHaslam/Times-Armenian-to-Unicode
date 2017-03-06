@@ -12,6 +12,8 @@ There exists a requirement therefore to convert text from Times Armenian to Unic
 
 There are many applications that can save files as or export files to RTF.
 
+**QuarkXPress**™ can export content in **Rich Text Format**, though the export may be lossy in respect of margin notes, etc.
+
 **Microsoft Word**™ can save files in **Rich Text Format**, but the conversion is simpler *after* the following preprocessing step.
 
 The RTF files to be converted should first be opened with **MS Wordpad**™ and resaved. The resulting files are much smaller.
