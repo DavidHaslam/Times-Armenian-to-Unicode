@@ -54,5 +54,11 @@ Likewise, the table excludes the five Armenian ligatures and two other Armenian 
 
 Even so, these are listed in my Excel worksheet for the sake of completeness.
 
-NB. The **Sylfaen** font displays the Armenian Hyphen as a space. The **Code2000** font might be preferred.
+The Armenian script requires a suitable Unicode font. Sylfaen is suitable, albeit this is one that comes with Windows.
+
+NB. The **Sylfaen** font displays the Armenian Hyphen as a space. The **Code2000** font might be preferred on this score.
+
+I have still not found a Unicode font that properly supports Armenian *italics* that is also freely redistributable.
+
+NB. **Code2000** fails miserably for Armenian italics.
 
