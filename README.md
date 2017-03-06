@@ -38,9 +38,11 @@ The mapping table was *reverse engineered* during April 2013. For traceability I
 
 NB. Times Armenian does not have a character for the **Armenian Hyphen**. It had the RTF code **\\--** in its place.
 
-FIO. It used the **small tilde \x{02DC}** in its place in some separately exported PDF files.
+FIO. It used the **small tilde \x{02DC}** in its place in some separately generated PDF files.
 
-This exception is not currently included in my mapping table.
+Both these pecularities may have been due to a quirk of how Quark XPress exports to RTF or prints to PDF.
+
+This exception is not currently included in my mapping table. It was rectified separately afterwards.
 
 Likewise, the table excludes the five Armenian ligatures and two other Armenian Unicode characters.
 
