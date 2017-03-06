@@ -4,7 +4,7 @@ A mapping table to convert **RTF** files containing text in the font **Times Arm
 
 **Times Armenian** is a legacy font in which the [Armenian characters](https://en.wikipedia.org/wiki/Armenian_alphabet) are in the hexadecimal range **A3** to **FD**.
 
-A special keyboard would normally have been used to type Armenian text with this font.
+A special keyboard would normally have been used to type Armenian text with this obsolete [encoding](https://en.wikipedia.org/wiki/ArmSCII).
 
 Such a legacy font is unsuitable for wider purposes in the modern world which now uses Unicode for most applications.
 
