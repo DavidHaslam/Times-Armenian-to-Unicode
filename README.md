@@ -46,3 +46,5 @@ This exception is not currently included in my mapping table. It was rectified s
 
 Likewise, the table excludes the five Armenian ligatures and two other Armenian Unicode characters.
 
+NB. The **Sylfaen** font displays the Armenian Hyphen as a space. The **Code2000** font might be preferred.
+
