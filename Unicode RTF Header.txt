@@ -1,2 +1,2 @@
-{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang2057{\\fonttbl{\\f0\\fnil\\fcharset0 Sylfaen;}{\\f1\\fnil\\fcharset1 Sylfaen;}}
+{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang2057{\\fonttbl{\\f0\\fnil\\fcharset0 DejaVu Sans;}{\\f1\\fnil\\fcharset1 DejaVu Sans;}}
 {\\*\\generator Msftedit 5.41.21.2510;}
