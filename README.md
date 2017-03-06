@@ -50,7 +50,7 @@ Both these pecularities may have been due to a quirk of how **QuarkXPress**™ e
 
 This exception is not currently included in my mapping table. It was rectified separately afterwards.
 
-Likewise, the table excludes the five Armenian ligatures and two other Armenian Unicode characters.
+Likewise, the table excludes five Armenian ligatures and two other Armenian Unicode characters.
 
 Even so, these are listed in my Excel worksheet for the sake of completeness.
 
